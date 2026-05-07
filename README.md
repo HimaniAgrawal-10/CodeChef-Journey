@@ -21,7 +21,7 @@ Each solution includes:
 * Approach explanation
 * Time & Space Complexity
 
-## 🎯 Goal
+## 🎯 Goal 
 
 To practice consistently and master Data Structures & Algorithms through competitive programming.
 
