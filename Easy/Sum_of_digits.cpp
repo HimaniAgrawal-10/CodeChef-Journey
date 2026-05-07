@@ -27,7 +27,6 @@ int main() {
     while (t--) {
         int n;
         cin >> n;
-
         cout << digitSum(n) << endl;
     }
 
