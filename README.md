@@ -25,6 +25,5 @@ Each solution includes:
 
 To practice consistently and master Data Structures & Algorithms through competitive programming.
 
----
 
 ⭐ “Consistency beats talent when talent doesn’t work hard.”
